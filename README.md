@@ -1,2 +1,2 @@
-# Moore.io OSI Physical Layer Hopper
-Moore.io's hopper of OSI Physical Layer IP, VIP & Script packages.
+# Moore.io OSI Physical Layer Project
+Moore.io's collection of OSI Physical Layer IP, VIP & Script packages.
